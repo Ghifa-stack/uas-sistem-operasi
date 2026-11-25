@@ -1,0 +1,11 @@
+Batas cgroup: 64.0 MiB | rencana alokasi: 300 MiB
+Langkah 01: alokasi=5 MiB | RSS=21.77 MiB | cgroup=17.98 MiB
+Langkah 02: alokasi=10 MiB | RSS=26.84 MiB | cgroup=22.98 MiB
+Langkah 03: alokasi=15 MiB | RSS=31.84 MiB | cgroup=27.98 MiB
+Langkah 04: alokasi=20 MiB | RSS=36.84 MiB | cgroup=32.98 MiB
+Langkah 05: alokasi=25 MiB | RSS=41.85 MiB | cgroup=37.98 MiB
+Langkah 06: alokasi=30 MiB | RSS=46.85 MiB | cgroup=42.98 MiB
+Langkah 07: alokasi=35 MiB | RSS=51.86 MiB | cgroup=47.98 MiB
+Langkah 08: alokasi=40 MiB | RSS=56.86 MiB | cgroup=53.23 MiB
+Langkah 09: alokasi=45 MiB | RSS=61.86 MiB | cgroup=58.23 MiB
+Langkah 10: alokasi=50 MiB | RSS=66.87 MiB | cgroup=63.23 MiB

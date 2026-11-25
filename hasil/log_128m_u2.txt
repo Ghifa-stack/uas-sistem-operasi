@@ -1,0 +1,24 @@
+Batas cgroup: 128.0 MiB | rencana alokasi: 300 MiB
+Langkah 01: alokasi=5 MiB | RSS=21.77 MiB | cgroup=17.9 MiB
+Langkah 02: alokasi=10 MiB | RSS=26.84 MiB | cgroup=22.9 MiB
+Langkah 03: alokasi=15 MiB | RSS=31.84 MiB | cgroup=27.9 MiB
+Langkah 04: alokasi=20 MiB | RSS=36.84 MiB | cgroup=32.9 MiB
+Langkah 05: alokasi=25 MiB | RSS=41.85 MiB | cgroup=37.9 MiB
+Langkah 06: alokasi=30 MiB | RSS=46.85 MiB | cgroup=43.15 MiB
+Langkah 07: alokasi=35 MiB | RSS=51.86 MiB | cgroup=48.15 MiB
+Langkah 08: alokasi=40 MiB | RSS=56.86 MiB | cgroup=53.15 MiB
+Langkah 09: alokasi=45 MiB | RSS=61.86 MiB | cgroup=58.15 MiB
+Langkah 10: alokasi=50 MiB | RSS=66.87 MiB | cgroup=63.15 MiB
+Langkah 11: alokasi=55 MiB | RSS=71.87 MiB | cgroup=68.15 MiB
+Langkah 12: alokasi=60 MiB | RSS=76.88 MiB | cgroup=73.15 MiB
+Langkah 13: alokasi=65 MiB | RSS=81.88 MiB | cgroup=78.15 MiB
+Langkah 14: alokasi=70 MiB | RSS=86.88 MiB | cgroup=83.15 MiB
+Langkah 15: alokasi=75 MiB | RSS=91.89 MiB | cgroup=88.15 MiB
+Langkah 16: alokasi=80 MiB | RSS=96.89 MiB | cgroup=93.15 MiB
+Langkah 17: alokasi=85 MiB | RSS=101.89 MiB | cgroup=98.15 MiB
+Langkah 18: alokasi=90 MiB | RSS=106.90 MiB | cgroup=103.15 MiB
+Langkah 19: alokasi=95 MiB | RSS=111.90 MiB | cgroup=108.15 MiB
+Langkah 20: alokasi=100 MiB | RSS=116.91 MiB | cgroup=113.15 MiB
+Langkah 21: alokasi=105 MiB | RSS=121.91 MiB | cgroup=118.15 MiB
+Langkah 22: alokasi=110 MiB | RSS=126.91 MiB | cgroup=123.15 MiB
+Langkah 23: alokasi=115 MiB | RSS=131.91 MiB | cgroup=127.25 MiB

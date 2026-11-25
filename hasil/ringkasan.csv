@@ -1,0 +1,10 @@
+urutan,batas_mib,ulangan,status,langkah_terakhir,alokasi_terakhir_mib,rss_terakhir_mib,cgroup_terakhir_mib,waktu_s,exit_code,oom_killed
+1,128,3,mati,23,115,131.88,127.31,2.35,137,true
+2,256,3,mati,48,240,256.98,253.66,5.02,137,true
+3,256,1,mati,48,240,257.08,254.02,4.94,137,true
+4,64,1,mati,10,50,66.88,63.78,0.95,137,true
+5,256,2,mati,48,240,256.89,253.62,4.97,137,true
+6,128,2,mati,23,115,131.91,127.25,2.35,137,true
+7,64,2,mati,10,50,66.87,63.23,0.95,137,true
+8,128,1,mati,23,115,131.75,127.97,2.33,137,true
+9,64,3,mati,10,50,66.94,62.66,0.96,137,true
